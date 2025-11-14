@@ -56,25 +56,7 @@
   <img alt="mongodb" src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
----
 
-## 🚀 Featured Projects
-
-### 💼 [Expense Tracker](https://your-deployed-app-link)  
-**Tech Used:** React, Node.js, Express, MongoDB, JWT  
-**Description:** Developed a full-stack expense management app to track daily income & expenses, visualize summaries, and analyze spending patterns.  
-**Deployed Link:** [View App](https://your-deployed-app-link)
-
----
-
-### 🔗 [Project Two](https://link-to-project-two)  
-**Tech Used:** Add tech stack here  
-**Description:** Short project description and features.  
-**Repo:** [GitHub Repo]((https://github.com/hardikGit003))
-
----
-
----
 
 ### 📊 GitHub Stats (optional)
 <p align="center">
