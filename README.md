@@ -1,8 +1,5 @@
 <!-- README.md -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi👋,-I'm%20YOUR%20NAME-0ea5a4?style=flat-square" alt="greeting"/>
-</p>
 
 <h1 align="center">👋 Hi, I'M Hardik </h1>
 <p align="center"><strong>Data Scientist | Software Developer | Transforming Data into Insights | Exploring AI &amp; ML</strong></p>
