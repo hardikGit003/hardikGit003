@@ -5,13 +5,12 @@
 <p align="center"><strong>Data Scientist | Software Developer | Transforming Data into Insights | Exploring AI &amp; ML</strong></p>
 
 <p align="center">
-  <!-- Social buttons -->
   <a href="https://www.linkedin.com/in/hardik-prajapati003" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img height="32" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:hardik1692001@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img height="32" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -24,36 +23,30 @@
 - ✨ Always curious to learn new tech and solve challenging problems
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages & Libraries**
-<p>
-  <img alt="python" src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="sql" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="pandas" src="https://img.shields.io/badge/-PANDAS-150458?style=flat-square"/>
-  <img alt="numpy" src="https://img.shields.io/badge/-NUMPY-013243?style=flat-square"/>
-  <img alt="matplotlib" src="https://img.shields.io/badge/-MATPLOTLIB-11557C?style=flat-square"/>
-  <img alt="seaborn" src="https://img.shields.io/badge/-SEABORN-6C8EBF?style=flat-square"/>
+### **Languages & Libraries**
+<p align="left">
+  <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img height="30" src="https://img.shields.io/badge/Seaborn-6C8EBF?style=for-the-badge"/>
 </p>
 
-**Visualization & BI**
-<p>
-  <img alt="powerbi" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white"/>
-  <img alt="excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+### **Visualization & BI**
+<p align="left">
+  <img height="30" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-**Web Development**
-<p>
-  <img alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="react" src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img alt="nodejs" src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img alt="mongodb" src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+### **Web Development**
+<p align="left">
+  <img height="30" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img height="30" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
-
-
-
-
