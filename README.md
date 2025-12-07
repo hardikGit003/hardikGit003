@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👋 Hi, I'M Hardik </h1>
-<p align="center"><strong>Data Scientist | Transforming Data into Insights | Exploring AI &amp; ML</strong></p>
+<p align="center"><strong>Data Scientist | Transforming Data into Insights | Exploring AI &amp; ML | Data Cleaning, Exploratory Data Analysis (EDA), Insight Generation, Descriptive Statistics</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hardik-prajapati003" target="_blank">
