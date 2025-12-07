@@ -52,7 +52,7 @@
 </p>
 
 ### 🧰 Tools & IDEs
-<p>
+<p align="left">
   <img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Dev%20C++-5C2D91" />
   <img height="30" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
